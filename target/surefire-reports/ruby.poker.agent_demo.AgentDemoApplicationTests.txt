@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ruby.poker.agent_demo.AgentDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.255 s -- in ruby.poker.agent_demo.AgentDemoApplicationTests
