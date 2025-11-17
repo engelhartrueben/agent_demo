@@ -1,3 +1,7 @@
+/*
+ * DO NOT ALTER IN ANY WAY.
+ */
+
 package ruby.poker.agent_demo;
 
 import org.springframework.boot.SpringApplication;
